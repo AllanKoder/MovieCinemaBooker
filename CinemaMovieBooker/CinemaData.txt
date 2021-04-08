@@ -1,0 +1,209 @@
+NEW SESSION
+__________________________________________
+Allan, Seat:14, Time:2021/03/09 13:07:20
+NEW SESSION
+__________________________________________
+Allan, Seat:0, Time:2021/03/09 13:10:22
+Allan, Seat:1, Time:2021/03/09 13:10:25
+NEW SESSION
+__________________________________________
+Allan, Seat:0, Time:2021/03/09 13:14:32
+Zach, Seat:1, Time:2021/03/09 13:14:37
+NEW SESSION
+__________________________________________
+fe, Seat:49, Time:2021/03/09 13:52:42
+NEW SESSION
+__________________________________________
+d, Seat:2, Time:2021/03/09 13:53:29
+], Seat:3, Time:2021/03/09 13:53:30
+9, Seat:7, Time:2021/03/09 13:53:32
+9, Seat:6, Time:2021/03/09 13:53:32
+9, Seat:5, Time:2021/03/09 13:53:33
+=, Seat:1, Time:2021/03/09 13:53:34
+y, Seat:0, Time:2021/03/09 13:53:36
+y, Seat:4, Time:2021/03/09 13:53:37
+NEW SESSION
+__________________________________________
+io, Seat:5, Time:2021/03/09 13:54:00
+p, Seat:2, Time:2021/03/09 13:54:01
+op, Seat:4, Time:2021/03/09 13:54:02
+op, Seat:1, Time:2021/03/09 13:54:02
+op, Seat:0, Time:2021/03/09 13:54:03
+NEW SESSION
+__________________________________________
+Allan Kong, Seat:1, Time:2021/03/09 13:56:27
+NEW SESSION
+__________________________________________
+Allan Kong, Seat:1, Time:2021/03/09 13:57:45
+NEW SESSION
+__________________________________________
+A, Seat:0, Time:2021/03/09 13:58:30
+NEW SESSION
+__________________________________________
+Help me , Seat:0, Time:2021/03/09 13:59:00
+Help me , Seat:1, Time:2021/03/09 13:59:02
+Help me , Seat:2, Time:2021/03/09 13:59:05
+NEW SESSION
+__________________________________________
+Allan, Seat:1965, Time:2021/03/09 13:59:29
+God , Seat:1155, Time:2021/03/09 13:59:34
+Help me , Seat:1157, Time:2021/03/09 13:59:38
+Huge, Seat:2759, Time:2021/03/09 13:59:41
+Moist Critical, Seat:2804, Time:2021/03/09 13:59:45
+NEW SESSION
+__________________________________________
+1, Seat:0, Time:2021/03/09 14:00:00
+NEW SESSION
+__________________________________________
+wdf, Seat:206, Time:2021/03/09 14:01:52
+NEW SESSION
+__________________________________________
+fds, Seat:320, Time:2021/03/09 14:03:21
+NEW SESSION
+__________________________________________
+fds, Seat:801, Time:2021/03/09 14:04:08
+NEW SESSION
+__________________________________________
+Allan, Seat:1, Time:2021/03/09 14:08:31
+Kong, Seat:0, Time:2021/03/09 14:08:34
+NEW SESSION
+__________________________________________
+d, Seat:0, Time:2021/03/09 14:48:29
+NEW SESSION
+__________________________________________
+Allan Kong, Seat:144, Time:2021/03/09 14:50:32
+NEW SESSION
+__________________________________________
+Allan, Seat:0, Time:2021/03/09 15:18:12
+NEW SESSION
+__________________________________________
+Allan, Seat:0, Time:2021/03/09 15:20:18
+Stephen, Seat:1, Time:2021/03/09 15:20:22
+NEW SESSION
+__________________________________________
+Allan Kong , Seat:0, Time:2021/03/09 15:57:00
+Nicc Conk, Seat:1, Time:2021/03/09 15:57:15
+NEW SESSION
+__________________________________________
+Alla, Seat:0, Time:2021/03/09 17:40:12
+NEW SESSION
+__________________________________________
+Allan, Seat:1, Time:2021/03/10 13:52:52
+Epic Gamer, Seat:2, Time:2021/03/10 13:52:56
+NEW SESSION
+__________________________________________
+Allan, Seat:1, Time:2021/03/10 13:56:27
+Richard , Seat:7, Time:2021/03/10 13:56:32
+Allan , Seat:2, Time:2021/03/10 13:56:36
+Allan Kong , Seat:3, Time:2021/03/10 13:56:46
+Allan Kong , Seat:4, Time:2021/03/10 13:56:49
+Richard , Seat:12, Time:2021/03/10 13:57:02
+NEW SESSION
+__________________________________________
+Allan, Seat:1, Time:2021/03/10 14:22:28
+NEW SESSION
+__________________________________________
+Allan, Seat:2, Time:2021/03/10 14:59:40Cost: 234.0
+Rich Kid , Seat:3, Time:2021/03/10 14:59:45Cost: 234.0
+NEW SESSION
+__________________________________________
+Allan, Seat:0, Time:2021/03/10 15:02:39Cost: $23.0
+Total Profits: 23.0
+NEW SESSION
+__________________________________________
+Allan, Seat:0, Time:2021/03/10 15:03:04Cost: $2.0
+kong, Seat:1, Time:2021/03/10 15:03:06Cost: $2.0
+Total Profits: $4.0
+NEW SESSION
+__________________________________________
+Allan, Seat:3, Time:2021/03/10 15:04:02Cost: $34.0
+Kong, Seat:1, Time:2021/03/10 15:04:06Cost: $34.0
+NEW SESSION
+__________________________________________
+Allan, Seat:7, Time:2021/03/10 15:11:43Cost: $7867.0
+NEW SESSION
+__________________________________________
+Person: Allan, Seat:0, Time:2021/03/13 19:00:02, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: A, Seat:0, Time:2021/03/13 19:23:10, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: 1ds, Seat:0, Time:2021/03/13 19:27:34, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: Allam, Seat:0, Time:2021/03/13 19:34:30, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: w, Seat:0, Time:2021/03/13 19:38:00, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: , Seat:2, Time:2021/03/13 19:38:34, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: AD, Seat:2, Time:2021/03/13 19:40:27, Cost: $0.0
+Person: Adas, Seat:1, Time:2021/03/13 19:40:43, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: Ad, Seat:0, Time:2021/03/13 19:57:01, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: Allan, Seat:0, Time:2021/03/13 19:59:47, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: AD, Seat:2, Time:2021/03/13 20:04:41, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: a, Seat:0, Time:2021/03/13 20:05:23, Cost: $0.0
+Person: asdf, Seat:0, Time:2021/03/13 20:05:28, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: A, Seat:0, Time:2021/03/13 20:06:35, Cost: $0.0
+Person: A, Seat:0, Time:2021/03/13 20:06:39, Cost: $0.0
+Person: a, Seat:1, Time:2021/03/13 20:06:54, Cost: $0.0
+Person: ad, Seat:1, Time:2021/03/13 20:06:57, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: asd, Seat:0, Time:2021/03/13 20:12:26, Cost: $0.0
+Person: asd, Seat:0, Time:2021/03/13 20:12:31, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: 23, Seat:0, Time:2021/03/13 20:14:25, Cost: $0.0
+Person: asd, Seat:1, Time:2021/03/13 20:14:30, Cost: $0.0
+Person: asd, Seat:0, Time:2021/03/13 20:14:38, Cost: $0.0
+Person: asdasd, Seat:0, Time:2021/03/13 20:14:43, Cost: $0.0
+Total Profits: $0.0
+NEW SESSION
+__________________________________________
+Person: 2, Seat:0, Time:2021/03/13 20:18:38, Cost: $0.0
+Person: , Seat:0, Time:2021/03/13 20:18:42, Cost: $0.0
+Person: , Seat:0, Time:2021/03/13 20:18:52, Cost: $0.0
+NEW SESSION
+__________________________________________
+Person: sadas, Seat:0, Time:2021/03/13 20:21:16, Cost: $0.0, WatchingSession: sad
+NEW SESSION
+__________________________________________
+Person: Addas, Seat:0, Time:2021/03/13 20:21:56, Cost: $0.0, WatchingSession: esdf
+NEW SESSION
+__________________________________________
+Person: asd, Seat:2, Time:2021/03/13 20:23:27, Cost: $0.0, WatchingSession: sfd
+NEW SESSION
+__________________________________________
+Person: asd, Seat:0, Time:2021/03/13 20:25:09, Cost: $0.0, WatchingSession: dsaf
+Person: sadsadfasfsdf, Seat:1, Time:2021/03/13 20:25:17, Cost: $0.0, WatchingSession: dsaf
+Person: sadas, Seat:3, Time:2021/03/13 20:25:26, Cost: $0.0, WatchingSession: dsaf
+NEW SESSION
+__________________________________________
+Person: asd, Seat:1, Time:2021/03/13 20:25:47, Cost: $0.0, WatchingSession: fds
+Person: asd, Seat:1, Time:2021/03/13 20:25:51, Cost: $0.0, WatchingSession: fsd
+NEW SESSION
+__________________________________________
+Person: sdf, Seat:0, Time:2021/03/13 20:28:55, Cost: $0.0, WatchingSession: asdas
+NEW SESSION
+__________________________________________
+Person: 2, Seat:43, Time:2021/03/13 20:31:46, Cost: $0.0, WatchingSession: fonasdf
+
+ NEW SESSION
+----------------------------
+Person: fsd, Seat:3, Time:2021/04/08 12:52:44, Cost: $3.0, WatchingSession: 6:00PM
+Total Profits: $3.0
